@@ -18,3 +18,5 @@ steps:
     echo See https://aka.ms/yaml
     echo My First Azure run
   displayName: 'Run a multi-line script'
+  
+- task: VSBuild@1
